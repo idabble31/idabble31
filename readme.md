@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 Currently Working On: An automated liquid filling machine project for a manufacturing company, focusing on enhancing precision and efficiency.<br><br>👯 Looking to Collaborate On: Robotics, PCB design, autonomous intelligent systems, and 3D modeling/design—let's innovate together!<br><br>🤝 Seeking Assistance With: Exploring cutting-edge algorithms and optimizing hardware design for complex automation tasks.<br><br>🌱 Currently Learning: Advanced machine learning techniques, AI-driven robotics, next-gen PCB fabrication, and refining my 3D modeling skills.<br><br>💬 Ask Me About: Robotics, embedded systems, automation, 3D modeling/design, and how to bring intelligent machines to life.<br><br>⚡ Fun Fact: When I'm not building robots, I enjoy exploring the world of 3D printing and creating custom gadgets.
+
+🔭 **Currently Working On**: Developing an automated liquid filling machine for a manufacturing company, with a focus on precision and efficiency improvements.
+
+👯 **Looking to Collaborate On**: Robotics, PCB design, autonomous systems, and 3D modeling—let's collaborate and push the boundaries of innovation!
+
+🤝 **Seeking Assistance With**: Exploring advanced algorithms and optimizing hardware designs for complex automation and robotics projects.
+
+🌱 **Currently Learning**: Enhancing my skills in robotics, PCB design, and 3D modeling to stay ahead in the field of automation and intelligent systems.
+
+💬 **Ask Me About**: Robotics, embedded systems, automation, 3D design, and how to bring intelligent machines to life.
+
+⚡ **Fun Fact**: When I'm not building robots, I'm diving into 3D printing and crafting custom gadgets for fun and function.
 
 
 # 💻 Tech Stack:
