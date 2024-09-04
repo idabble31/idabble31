@@ -1,6 +1,3 @@
-![gambar](https://github.com/user-attachments/assets/e0231735-3ce0-40b3-9544-28a42e2ca753)
-
-
 # 💫 About Me:
 
 🔭 **Currently Working On**: Developing an automated liquid filling machine for a manufacturing company, with a focus on precision and efficiency improvements.
