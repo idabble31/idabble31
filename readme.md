@@ -10,7 +10,6 @@
 
 💬 **Ask Me About**: Robotics, embedded systems, automation, 3D design, and how to bring intelligent machines to life.
 
-⚡ **Fun Fact**: When I'm not building robots, I'm diving into 3D printing and crafting custom gadgets for fun and function.
 
 
 # 💻 Tech Stack:
