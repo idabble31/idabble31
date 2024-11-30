@@ -1,14 +1,14 @@
-# 💫 About Me:
+# 💫 About Me  
 
-🔭 **Currently Working On**: Developing an automated liquid filling machine for a manufacturing company, with a focus on precision and efficiency improvements.
+🔭 **Current Focus**: Applying my expertise in embedded systems, PCB design, robotics, IoT, and AI to develop innovative and intelligent solutions.  
 
-👯 **Looking to Collaborate On**: Robotics, PCB design, autonomous systems, and 3D modeling—let's collaborate and push the boundaries of innovation!
+👯 **Looking to Collaborate On**: Projects in robotics, IoT devices, AI-driven systems, and advanced hardware design. Let’s shape the future of technology together!  
 
-🤝 **Seeking Assistance With**: Exploring advanced algorithms and optimizing hardware designs for complex automation and robotics projects.
+🤝 **Seeking Guidance With**: Mastering advanced algorithms, optimizing embedded systems, and exploring AI integration with IoT and automation technologies.  
 
-🌱 **Currently Learning**: Enhancing my skills in robotics, PCB design, and 3D modeling to stay ahead in the field of automation and intelligent systems.
+🌱 **Currently Learning**: Edge AI and its applications in embedded systems, IoT, and robotics.  
 
-💬 **Ask Me About**: Robotics, embedded systems, automation, 3D design, and how to bring intelligent machines to life.
+💬 **Ask Me About**: AI, embedded systems, robotics, IoT, PCB design, and how to create smart, connected, and efficient systems.  
 
 
 
