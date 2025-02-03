@@ -1,8 +1,6 @@
 # 💫 About Me  
 
-🔭 **Current Focus**: Applying my expertise in embedded systems, PCB design, robotics, IoT, and AI to develop innovative and intelligent solutions.  
-
-👯 **Looking to Collaborate On**: Projects in robotics, IoT devices, AI-driven systems, and advanced hardware design. Let’s shape the future of technology together!  
+🔭 **Current Focus**: Currently working as a ROS Software Engineer at Widya Robotics
 
 🤝 **Seeking Guidance With**: Mastering advanced algorithms, optimizing embedded systems, and exploring AI integration with IoT and automation technologies.  
 
