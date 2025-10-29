@@ -1,12 +1,6 @@
 # 💫 About Me  
 
-🔭 **Current Focus**: Currently working as a ROS Software Engineer at Widya Robotics
-
-🤝 **Seeking Guidance With**: Mastering advanced algorithms, optimizing embedded systems, and exploring AI integration with IoT and automation technologies.  
-
-🌱 **Currently Learning**: Edge AI and its applications in embedded systems, IoT, and robotics.  
-
-💬 **Ask Me About**: AI, embedded systems, robotics, IoT, PCB design, and how to create smart, connected, and efficient systems.  
+🔭 **Current Focus**: Currently working as a Robotics Software Engineer at Widya Robotics
 
 
 
